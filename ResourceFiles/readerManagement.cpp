@@ -1,7 +1,7 @@
-#include "readerManagement.h"
 #include <stdio.h>
 #include <time.h>
 #include <string.h>
+#include "readerManagement.h"
 
 void addReader(char readerCodes[MAX_READERS][10],
                char readerNames[MAX_READERS][50],
